@@ -3,7 +3,7 @@
 //Author: Akhileshwar Mugala
 //Author: KrishnaSai Kavuri
 //Author: Saqlain Abbas Ali Khan
-//Author: Govindaiah Chowdary Pentala
+//Author: Govindaiah Chowdary Pentela
 #ifndef OR_NODE_H
 #define OR_NODE_H
 #include <string>
